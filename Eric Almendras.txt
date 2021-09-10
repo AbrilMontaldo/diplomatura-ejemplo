@@ -1,2 +1,0 @@
-ejemplo de uso de git
-bla bla bla
